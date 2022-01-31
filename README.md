@@ -3,7 +3,7 @@
   <p align="center">  
     <a href="https://eesdr.com/en/software-en/bug-report">Bug submission manual</a>
     ·    
-    <a href="https://github.com/ExpertSDR3/ExpertSDR3-BUG-TRACKER/issues">Submit Bug Report</a>
+    <a href="https://github.com/ExpertSDR3/ExpertSDR3-REMOTE-SYSTEM/issues">Submit Bug Report</a>
     ·
     <a href="https://drive.google.com/drive/folders/1rGdy8YXEh0bCr_uK3Wk544aozkT3y3uO?usp=sharing" target="_blank">Current software in test</a>
     ·
