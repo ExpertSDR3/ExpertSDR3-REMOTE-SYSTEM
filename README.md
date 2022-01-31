@@ -12,7 +12,7 @@
 </p>
 
 ## FAQ
-[BUG-TRACKER](https://github.com/ExpertSDR3/ExpertSDR3-BUG-TRACKER/issues)
+[BUG-TRACKER](https://github.com/ExpertSDR3/ExpertSDR3-REMOTE-SYSTEM/issues)
 
 Перед публикацией бага проверьте, используя поиск, что об этой проблеме еще не писали.
 
