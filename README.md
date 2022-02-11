@@ -24,7 +24,7 @@
 * Device and serial number
 * ExpertSDR3 version and build number
 * OS: Windows 10/ macOS/ Linux Ubuntu - under which OS you have confirmed the issue
-* Your PC parameters briefly
+* Your PC parameters and most importantly your setup
 * Description: full and most descriptive information about the bug/issue
 * Correlations: indicate if you found any dependencies or conditions under which issue/bug occurs
 * Reproduction steps - describe if applicable
@@ -41,7 +41,7 @@
 * Модель радио и серийный номер
 * Версия и номер билда ExpertSDR3
 * ОС: Windows 10/ macOS/ Linux Ubuntu - используя какую ОС вы столкнулись с ошибкой
-* Кратко характеристики вашего ПК
+* Кратко характеристики вашего ПК и очень важно подробно описать ваш сетап
 * Описание: максимально полная информация об ошибке
 * Условия: укажите условия в которых проявляется ошибка
 * Укажите последовательность действий для воспроизведения ошибки, если можете
