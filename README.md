@@ -6,10 +6,6 @@
   <a href="#bug-submission-manual-ru">Как правильно сообщить об ошибке</a>
     ·    
     <a href="https://github.com/ExpertSDR3/ExpertSDR3-REMOTE-SYSTEM/issues">Submit Bug Report</a>
-    ·
-    <a href="https://drive.google.com/drive/folders/1zsu0w6YRt1kOTkfIVaQcRiMIat22ZNHe?usp=sharing">Current software in test</a>
-    ·
-    <a href="https://eesdr.com/en/software-en/expertsdr3-en" target="_blank">Latest public release</a>
   </p>
 </p>
 
@@ -23,6 +19,7 @@
   
 * Device and serial number
 * ExpertSDR3 version and build number
+* Server version
 * OS: Windows 10/ macOS/ Linux Ubuntu - under which OS you have confirmed the issue
 * Your PC parameters and most importantly your setup
 * Description: full and most descriptive information about the bug/issue
@@ -40,6 +37,7 @@
   
 * Модель радио и серийный номер
 * Версия и номер билда ExpertSDR3
+* Версия программы сервера
 * ОС: Windows 10/ macOS/ Linux Ubuntu - используя какую ОС вы столкнулись с ошибкой
 * Кратко характеристики вашего ПК и очень важно подробно описать ваш сетап
 * Описание: максимально полная информация об ошибке
